@@ -1,0 +1,9 @@
+Was the call answered promptly and polietly?
+Did the agent greet the customer appropriately?
+Was the customer's query or issue clearly identified?
+Did the agent use a professional and friendly tone throughout the call?
+Were there any instances of unclear or incorrect information provided by the agent?
+Did the agent actively listen to the customer and avoid interrupting them
+Was the customer's issue resolved or adequately addressed?
+Did the agent provide accurate and relevant information to the customer?
+Was the agent proactive in offering solutions or alternatives?
